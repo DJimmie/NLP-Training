@@ -48,7 +48,7 @@ sort_by_value(fart)
 
 
 R=['the','on','for','is','to','that','in','a','with','of','and','this','as','at']
-R2=['*','&','-','/']
+R2=['*','&','-','/','!','@','_']
 setA=set(R+R2)
 
 setB=set(lines)
