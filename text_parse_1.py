@@ -1,6 +1,7 @@
 import string
+import nltk
 
-
+form nltl.corpus import stopwords
 
 def sort_it_1(fart):
     lst=list(fart.keys())
@@ -48,7 +49,7 @@ sort_by_value(fart)
 
 
 R=['the','on','for','is','to','that','in','a','with','of','and','this','as','at']
-R2=['*','&','-','/']
+R2=['*','&','-','/','!','@','_']
 setA=set(R+R2)
 
 setB=set(lines)
