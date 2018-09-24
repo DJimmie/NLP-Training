@@ -1,7 +1,7 @@
 import string
 import nltk
 
-form nltl.corpus import stopwords
+from nltk.corpus import stopwords
 
 def sort_it_1(fart):
     lst=list(fart.keys())
