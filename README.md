@@ -7,3 +7,4 @@
 
 ### References and Links
 - [NLTK](http://www.nltk.org/)
+- [Natural Language Processing with Python](http://nltk.org/book_1ed)
