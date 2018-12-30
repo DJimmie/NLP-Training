@@ -4,3 +4,6 @@
 
 - Introduction to NLP. The beginning stages of working with NLP.
 - Specific projects are to be in subfolders
+
+### References and Links
+- [NLTK](http://www.nltk.org/)
