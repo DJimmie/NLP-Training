@@ -1,2 +1,0 @@
-Tested the Git commit and pull request.
-I'm trying to remove that deleted file.
