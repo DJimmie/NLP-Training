@@ -20,8 +20,8 @@ def sort_by_value(fart):
         print(key,val)
 
 
-##location=r'C:\Users\Crystal\Desktop\test.txt'
-location=r'C:\Users\Crystal\Desktop\Resume_parse.txt'
+
+location='text_doc.txt'
 
 
 
