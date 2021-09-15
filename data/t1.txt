@@ -1,0 +1,17 @@
+identify all the categories, types, things and objects that are important for that field, and
+we then understand more and more how they relate to each other and what information
+is available to describe them even more accurately. We call this the ‘conceptual model,’
+and in a semantic knowledge graph this is represented by a schema or ontology.
+Since we express knowledge not only schematically, but also, and above all, through human language, very individually and in different languages, we must also provide a ‘linguistic model’ for our knowledge graph. The linguistic model serves to label and further
+describe and contextualize the individual elements of the conceptual model and their
+individual instances. In a semantic knowledge graph this is made possible by controlled
+vocabularies such as taxonomies. The linguistic model is derived from the analysis of
+existing information from a domain and its instance data as well as from the experience
+gained in this field.
+Part 1, the "information analysis" can be largely automated by machine learning, while
+part 2, the "deriving knowledge from experience" can be performed by domain experts.
+Ideally, these two elements are combined to build the conceptual and linguistic model
+based on information and experience in a given domain.
+A scope for the domain to be represented by the conceptual model can be calculated
+by means of a reference text corpus or by means of so-called “key questions,” which are
+specified by potential business users.
