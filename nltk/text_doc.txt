@@ -1,1 +1,7 @@
-Whether you’re new to spaCy, or just want to brush up on some NLP basics and implementation details – this page should have you covered. Each section will explain one of spaCy’s features in simple terms and with examples or illustrations. Some sections will also reappear across the usage guides as a quick introduction.
+APU consumables pre-mission planning includes prediction, analysis, and post-flight performance evaluations for determining consumables requirements. APU 
+hydrazine and injector cooling water-loading quantities are loaded per OMRSD requirements, which allow for loading uncertainty. Launch Commit Criteria monitor 
+for hydrazine leakage, ensure sufficient GN2 for gearbox repressurization and verify adequate hydraulic fluid quantity for flight. Minimum pre-deorbit APU fuel 
+quantity requirements are defined in the Flight Rules.  Mission Control Center monitors consumables usage during the mission. Mission planning includes 
+derivation of APU fuel reserves. Orbiter Fluid Budget allows for loading uncertainty and shows adequate reserves after worst-case consumption during Abort Once 
+Around (AOA) landing. APU gas generator injector tube cooling water-loading quantity is provided for contingency operations only when a hot APU restart is 
+required (sufficient time is not available for normal APU cool down time of about 180 minutes). Cooling water quantity provided is sufficient for six hot restarts
