@@ -1,19 +1,74 @@
-identify all the categories, types, things and objects that are important for that field, and
-we then understand more and more how they relate to each other and what information
-is available to describe them even more accurately. We call this the ‘conceptual model,’
-and in a semantic knowledge graph this is represented by a schema or ontology.
-Since we express knowledge not only schematically, but also, and above all, through human language,
- very individually and in different languages, we must also provide a ‘linguistic model’ for our knowledge graph. 
-The linguistic model serves to label and further
-describe and contextualize the individual elements of the conceptual model and their
-individual instances. In a semantic knowledge graph this is made possible by controlled
-vocabularies such as taxonomies. The linguistic model is derived from the analysis of
-existing information from a domain and its instance data as well as from the experience
-gained in this field.
-Part 1, the "information analysis" can be largely automated by machine learning, while
-part 2, the "deriving knowledge from experience" can be performed by domain experts.
-Ideally, these two elements are combined to build the conceptual and linguistic model
-based on information and experience in a given domain.
-A scope for the domain to be represented by the conceptual model can be calculated
-by means of a reference text corpus or by means of so-called “key questions,” which are
-specified by potential business users.
+Senior Mechanical Engineer-Systems Engineering Manager- Data Scientist
+
+Self-motivated accomplished multi-disciplined senior engineer with over 20 plus years experience in Systems Engineering and engineering R&D test operations and management such as:
+	Deep knowledge of various programming languages including Python, SQL, LabVIEW, and C++ in addition to having a strong background in the application of data science concepts and machine learning algorithms towards engineering data analysis and test operations. 
+	Expertise in rocket propulsion systems engineering, while working as a NASA contractor for the Space Shuttle Program; functioning as the Systems Engineering and Integration (SE&I) Main Propulsion System (MPS) lead; directing the technical team in the pre-flight, launch and post-flight technical analysis and assessments of the Main Propulsion System performance.
+	Extensively involved in all phases of engineering R&D testing including management of test operations such as the design of test apparatus, the selection, and calibration, installation of instruments, the processing and analysis of test data.
+
+PROVEN TECHNOLOGY STRENGTHS
+Senior Engineering ManagementRocket Propulsion System AnalysisVibration Testing and Analysis Integrated Hazard Analysis Certified LabVIEW Associate Developer Data Science AutoCAD Inventor
+PLC SystemsData Acquisition Systems Python ProgrammingSQLWind Tunnel Testing
+Pneumatic/Hydraulic Systems Machine Learning Algorithms UML SysML
+Power BI Tableau 
+PROFESSIONAL EXPERIENCES
+
+SCHLUMBERGER						 Houston, TX | Feb 2012 to Present
+Systems Engineering Manager/Engineering Test Lab Manager R&D
+Oversee and direct daily test activities at the Cameron Technology Development Center. Lead test lab projects for Drilling and Production systems, R&D testing, product development, product design qualification, performance verification, and product testing/demonstrations. Manage cross-functional team of engineers and technicians for 200+ annual test plans. 
+	Streamline test lab operations for component and system level testing for subsea, surface, and drilling systems including high-pressure up to 30,000 PSI under extreme temperatures. 
+	Oversee and conduct hyperbaric testing that simulates 10,000-foot water depth, and utilization of strain gages for mechanical load testing. 
+	Conduct/review test plans and readiness reviews with project engineers of all testing and safety requirements, test hardware designs for interface compatibility with test lab equipment and instrumentation. 
+	Designer of test equipment to support test configurations including test fixture and interface adapters. 
+	Complete engineering/safety inspections of all test configurations before testing; assess daily test status reports ensuring tests conform to approved test plan, lab safety policies, and procedures. 
+	Collaborate with project engineers on post-test data, document lessons learned, and final engineering report. 
+	Developed and coded, using Python and SQL, a test planning program used for optimizing test scheduling and allocation of test lab resources.
+	Created the Systems Engineering Group within the Cameron Technology Development Center in 2017 with the purpose of the design and development of advanced test systems and their successful integration to R&D test articles.
+
+
+
+
+
+
+UNITED SPACE ALLIANCE/NASA				Houston, TX | 2007 to 2011
+Lead Systems Engineer (Space Shuttle Main Propulsion System Analysis and Testing)
+Served in the Mission Control Center as the System Engineering & Integration Office (SE&I) Representative for the Mission Evaluation Room (MER) console with the duties of compiling mission anomalies and issues resulting from the Space Shuttle launch, docked and undocked orbit operations and re-entry operations. Reported the captured mission anomalies and possible resolutions to the NASA SE&I Office and the Mission Control Management Team. Organized in great detailed the analysis, testing, and assessment of the integrated Space Shuttle Main Propulsion System by verifying the Orbiter, RS-25 rocket engines, external tank and propellant ground support systems for an optimal launch performance. 
+
+	Supported the Space Shuttle/Ares Wind Tunnel Protuberance Testing at the NASA Langley Research Center. The protuberance testing was used to evaluate surface heating and the effect of heating on the launch vehicle/spacecraft exterior during ascent
+	Developed and implemented a main propulsion system day of launch reference tool. The tool was used by SE&I personnel during the day of launch for real-time tracking and assessment of the main propulsion system from the start of propellant loading through lift-off. The tool provided a quick reference to detailed descriptions and diagrams of each component of the MPS. It also referenced related subsystems, and detailed design data. 
+	Assessing system behavior obtained during the countdown, launch, and ascent phases of each mission
+	Conducted the System Engineering & Integration evaluation responses for the Space Shuttle/International Space Station flight specific flight rules.
+	Developed and implemented a flight rules database and tracking matrix tool used in the System Engineering and Integration evaluation of Space Shuttle and International Space Station flight rules.
+
+	Received the following Honors and Awards:
+	United Space Alliance Individual Performance Award (2008) - MPS Day of Launch Tool
+	NASA Medallion (2009)-Flow Control Valve Anomaly Resolution Team
+	United Space Alliance Quarterly Safety Award (2010)-Mission Evaluation Systems Integration
+	NASA Group Achievement Award (2011)-Integrated Main Propulsion System Analysis Team
+
+
+STEIN SEAL COMPANY                                                                                       Kulpsville, PA|1998 to 2007
+Engineer Test Lab Manager
+Responsible for the design and assembly of test apparatus used to simulate turbine engine conditions. Directed and coordinated testing of shaft bearing seals for aircraft turbine engines. Oversaw the development, procurement, installation, and calibration of sensors, control devices, and support equipment required for testing. Assembled calibrated and programmed data acquisition systems and programmable logic controllers for measurement and control of test processes. 
+
+	Introduced and implemented PC-based Data Acquisition and Control to research and development testing which resulted in improved data collection and automation of critical test phases.
+	Initiated a materials evaluation test program.
+	Ensured that all testing produced significant data on both the friction coefficients, which included characteristics of various carbon grade materials used in aircraft turbine engines
+
+
+
+						
+
+MILITARY
+New Jersey Army National Guard				1997-2002
+Infantry Squad Leader
+
+U.S. Air Force Reserve, McGuire AFB, NJ 			1988-1997
+Aerospace Propulsion Specialist/Aircraft Technician/Quality Instructor
+Inspected flight line and maintenance on the TF-33 and CF6-50 turbofan jet engines, general aircraft maintenance on the C-141 Star Lifter and KC-10 Extender aircraft, aircraft launch and recovery operations
+
+EDUCATION
+
+Bachelor of Science, Mechanical Engineering, Drexel University, Philadelphia, PA
+
+Certified LabVIEW Associate Developers, Houston, TX
+

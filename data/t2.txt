@@ -1,0 +1,48 @@
+American manned spaceplane. Study 1974. Enterprise was the first Space Shuttle Orbiter. It was rolled out on September 17, 1976.
+AKA: OV-101. Status: Study 1974. Gross mass: 68,027 kg (149,973 lb). Height: 37.24 m (122.17 ft).
+
+Not equipped with a heat shield or subsystems for space flight, it was instead used in the nine-month-long ALT program from February through November 1977 to prove the shuttle's subsonic flight and landing characteristics. Plans to refurbish it as a space-capable orbiter were scrapped, and instead it had a subsequent career as a pathfinder vehicle at launch facilities, a test vehicle for brakes and parachute systems, and a museum piece.
+
+Enterprise, the first Space Shuttle Orbiter, was originally to be named Constitution (in honor of the U.S. Constitution's Bicentennial). However, viewers of the science fiction television series Star Trek started a write-in campaign urging the White House to rename the vehicle to Enterprise. Designated, OV-101, the vehicle was rolled out of Rockwell's Air Force Plant 42, Site 1 Palmdale California assembly facility on Sept. 17, 1976. On Jan. 31, 1977, it was transported 36 miles overland from Rockwell's assembly facility to NASA's Dryden Flight Research Facility at Edwards Air Force Base for the approach and landing test program.
+
+The nine-month-long ALT program was conducted from February through November 1977 at the Dryden Flight Research Facility and demonstrated that the orbiter could fly in the atmosphere and land like an airplane, except without power-gliding flight.
+
+Two NASA astronaut crews-Fred Haise and Gordon Fullerton and Joe Engle and Dick Truly-took turns flying the 150,000-pound spacecraft to free-flight landings.
+
+The ALT program involved ground tests and flight tests. The ground tests included taxi tests of the 747 shuttle carrier aircraft with the Enterprise mated atop it to determine structural loads and responses and assess the mated capability in ground handling and control characteristics up to flight takeoff speed. The taxi tests also validated 747 steering and braking with the orbiter attached. A ground test of orbiter systems followed the unmanned captive tests. All orbiter systems were activated as they would be in atmospheric flight. This was the final preparation for the manned captive flight phase.
+
+Five captive flights of the Enterprise mounted atop the 747 with the Enterprise unmanned and Enterprise's systems inert were conducted to assess the structural integrity and performance handling qualities of the mated craft.
+
+Three manned captive flights that followed the five captive flights included an astronaut crew aboard the orbiter operating its flight control systems while the orbiter remained perched atop the 747. These flights were designed to exercise and evaluate all systems in the flight environment in preparation for the orbiter release (free) flights. They included flutter tests of the mated craft at low and high speed, a separation trajectory test and a dress rehearsal for the first orbiter free flight.
+
+In the five free flights the astronaut crew separated the spacecraft from the 747 and maneuvered to a landing at Edwards Air Force Base. In the first four such flights the landing was on a dry lake bed; in the fifth, the landing was on Edwards' main concrete runway under conditions simulating a return from space. The last two free flights were made without the tail cone, the spacecraft's configuration during an actual landing from Earth orbit. These flights verified the orbiter's pilot-guided approach and landing capability; demonstrated the orbiter's subsonic terminal area energy management autoland approach capability; and verified the orbiter's subsonic airworthiness, integrated system operation and selected subsystems in preparation for the first manned orbital flight. The flights demonstrated the orbiter's ability to approach and land safely with a minimum gross weight and using several center-of-gravity configurations.
+
+For all of the captive flights and the first three free flights, the orbiter was outfitted with a tail cone covering its aft section to reduce aerodynamic drag and turbulence. The final two free flights were without the tail cone, and the three simulated space shuttle main engines and two orbital maneuvering system engines were exposed aerodynamically.
+
+The final phase of the ALT program prepared the spacecraft for four ferry flights. Fluid systems were drained and purged, the tail cone was reinstalled, and elevon locks were installed. The forward attachment strut was replaced to lower the orbiter's cant from 6 to 3 degrees. This reduced drag to the mated vehicles during the ferry flights.
+
+After the ferry flight tests, OV-101 was returned to the NASA hangar at the Dryden Flight Research Facility and modified for vertical ground vibration tests at the Marshall Space Flight Center, Huntsville, Alabama.
+
+On March 13, 1978, the Enterprise was ferried atop the 747 to NASA's Marshall Space Flight Center, where it was mated with the external tank and solid rocket boosters and subjected to a series of vertical ground vibration tests. These tested the mated configuration's critical structural dynamic response modes, which were assessed against analytical math models used to design the various element interfaces.
+
+These were completed in March 1979. On April 10, 1979, the Enterprise was ferried to the Kennedy Space Center. mated with the external tank and solid rocket boosters and transported via the mobile launcher platform to Launch Complex 39-A. At Launch Complex 39-A, the Enterprise served as a practice and launch complex fit-check verification tool representing the flight vehicles.
+
+It was ferried back to NASA's Dryden Flight Research Facility on Aug. 16, 1979, and then returned overland to Rockwell's Palmdale final assembly facility on Oct. 30, 1979. Certain components were refurbished for use on flight vehicles being assembled at Palmdale. The Enterprise was then returned overland to the Dryden Flight Research Facility on Sept. 6, 1981.
+
+During May and June of 1983, Enterprise was ferried to the Paris Air Show, as well as to Germany, Italy, England and Canada, and was returned to the Dryden Flight Research Facility.
+
+In the April-October 1984 time period, Enterprise was ferried to Vandenberg Air Force Base in California and to Mobile, Alabama. From there it was taken by barge to New Orleans, La., for the United States 1984 World's Fair.
+
+In November 1984 it was ferried to Vandenberg Air Force Base and used as a practice and fit-check verification tool for shuttle launch facility SLC-6. On May 24, 1985, Enterprise was ferried from Vandenberg Air Force Base to NASA's Dryden Flight Research Facility.
+
+On Sept. 20, 1985, Enterprise was ferried from Dryden Flight Research Facility to the Kennedy Space Center in Florida. On Nov. 18, 1985, Enterprise was ferried from the Kennedy Space Center to Dulles Airport, Washington, D.C., and became the property of the Smithsonian Institution. The Enterprise was built as a test vehicle and was not equipped for space flight.
+
+During the week of June 8, 1987 Enterprise was used at Dulles Airport to test a prototype Space Shuttle landing arresting barrier, a concept proposed during the Challenger accident investigation.
+
+When NASA was installing the SAREX (Shuttle Amateur Radio EXperiment) amateur radio equipment, none of the flight orbiters were available, so they tested the placement of antennas on a shuttle window using Enterprise.
+
+In 1990, the nose gear was removed for studies that ended up being deferred. In 1996, the nose gear was finally returned to the museum. NASA conducted several inspections on the orbiter, determining it to be in good shape (Assessment team members included; technicians from Dyncorp, the NASA-JSC support contractor which services the NASA aircraft; NASA-JSC structural, materials, and corrosion engineers; a NASA-HQ photographer)
+
+In 1997, the gear was removed again. This time the studies on improved nose gear actually did happen.
+
+In May 2003, the final confirming proof of the cause of the damage to the lost shuttle Columbia's leading edge came from air canon tests developed at Southwest Research Institute in Texas. A wing from the shuttle Enterprise, was equipped with reinforced carbon panels and other heat shield components taken from orbiters that had flown in space. An air cannon shot pieces of foam at the velocities and angles seen in the film of Columbia's launch and punched lethal-sized holes in the heat shield.
