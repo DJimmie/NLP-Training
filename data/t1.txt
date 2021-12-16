@@ -1,1 +1,2 @@
-The heart is a muscular organ in most animals, which pumps blood through the blood vessels of the circulatory system.[1] The pumped blood carries oxygen and nutrients to the body, while carrying metabolic waste such as carbon dioxide to the lungs.[2] In humans, the heart is approximately the size of a closed fist and is located between the lungs, in the middle compartment of the chest.
+Processing text with the nlp object returns a Doc object that holds all information about the tokens, their linguistic
+ features and their relationships
