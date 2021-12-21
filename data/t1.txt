@@ -1,10 +1,6 @@
-The oxygen tanks are made of lnconel (a nickelsteel alloy) and are a little over 26 inches in diameter.
-The cryogenic (ultra low temperature) tanks supply oxygen to the environmental control subsystem and oxygen and hydrogen to the fuel cell powerplants.
-The fuel sump tank occupies almost all of the space with the sector.
-The Eagles are not going to the super bowl this year.
-How do I purge the oxygen fuel cell lines?
-Which breaker do I use to shutoff the fuel cell powerplant?
-The Marine Corps has been part of the U.S. Department of the Navy since 30 June 1834 with its sister service, the United States Navy.
-From their inception during the American Revolutionary War, the U.S. Armed Forces have played a decisive role in the history of the United States.
-The U.S. Armed Forces are considered the world's most powerful military.
-The hydrogen tanks are made of brass and are a little over 26 inches in diameter.
+what is pressure of nitrogen tank?
+what is max pressure in the hydrogen tank?
+what is max pressure of pump H-6?
+current pressure of nitrogen tank.
+current pressure of hydrogen tank.
+
