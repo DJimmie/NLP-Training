@@ -1,23 +1,362 @@
-Deep knowledge of various programming languages including Python, SQL, LabVIEW, and C++ in addition to having a strong background in the application of data science concepts and machine learning algorithms towards engineering data analysis and test operations.
 
-Expertise in rocket propulsion systems engineering, while working as a NASA contractor at Johnson Space Center (JSC) for the Space Shuttle Program; functioning as the Systems Engineering and Integration (SE&I) Main Propulsion System (MPS) lead; directing the technical team in the pre-flight, launch and post-flight technical analysis and assessments of the Main Propulsion System performance.
+OXYGEN TANKS, HYDROGEN TANKS, FUEL CELLS 
+SERVICE PROPULSION SUBSYSTEM 
+SECTOR 6 FUEL TANKS 
+CENTER SECTION· SERVICE PROPULSION ENGINE ANO 
+HELIUM TANKS 
+Function 
+The service module contains the main spacecraft 
+propulsion system and supplies most of the spacecraft's consumables (oxygen, water, propellant, 
+hydrogen). It is not manned. The service module 
+remains attached to the command module until 
+just before entry, when it is jettisoned and is 
+destroyed during entry. 
+Major Subsystems 
+Electrical power 
+Environmental control 
+Reaction control 
+Service propulsion 
+Telecommunications 
 
-Extensively involved in all phases of engineering research and development testing including management of test operations such as the design of test apparatus, the selection, and calibration, installation of instruments, the processing and analysis of test data.
-
-Served in the NASA Mission Control Center as the System Engineering & Integration Office Representative for the Mission Evaluation Room (MER) console with the duties of tracking and compiling mission anomalies and issues resulting from the Space Shuttle launch, docked and undocked orbit operations and re-entry operations.
-
-Reported the mission anomalies and possible resolutions to the NASA Systems Engineering and Integration Office and the Mission Control Management Team.
-
-Organized in great detailed the analysis, testing, and assessment of the integrated Space Shuttle Main Propulsion System by verifying the Orbiter, RS-25 rocket engines, external tank and propellant ground support systems for an optimal launch performance. 
-
-MSS Flight system following, tracking and performance monitoring at NASA’s Johnson Space Center (JSC) Mission Evaluation Room (MER).
-Preparing MSS engineering shift reports during mission operations.
-Supporting development of MSS operations products.
-Supporting post mission and system trending analysis.
-Integrate with, and data mine from, other MER console team members in support of MSS on-orbit operations and On-orbit Off-Nominal/Anomaly investigations.
-Provide engineering support for simulations including Joint Integrated Simulation (JIS) in preparation for ISS flight and planned specialized MSS robotic operations.
-Support ISS MER process/operations improvement activities.
-Integration and testing of space robotics and mechanisms simulations within the simulation environment at JSC.
-Developing, executing and documenting simulation tests as well as analyzing and validating simulation responses, documenting and resolving model issues, developing and documenting simulation requirements.
-Helping to define the Extra-Vehicular Robotics (EVR) services to Gateway including external logistics, maintenance, inspection, assembly/reconfiguration, and support to external science payloads.
-Providing preliminary systems engineering, integration advice and oversight on Gateway EVR.
+Service module mated to command module at Kennedy Space Center 
+) 
+.-
+\lt --':. 
+The service module is a cylindrical structure which 
+serves as a storehouse of critical subsystems and 
+supplies for almost the entire lunar mission. It is 
+attached to the command module from launch until 
+just before earth atmosphere entry. 
+The service module contains the spacecraft's main 
+propulsion engine, which is used to brake the spacecraft and put it into orbit around the moon and to 
+send it on the homeward journey from the moon. 
+The engine also is used to correct the spacecraft's 
+course on both the trips to and from the moon. 
+Besides the service propulsion engine and its propellant and helium tanks, the service module contains a major portion of the electrical power, 
+environmental control, and reaction control subsystems, and a small portion of the communications subsystem. 
+It is strictly a servicing unit of the spacecraft, but 
+it is more than twice as long and more than four 
+times as heavy as the manned command module. 
+About 75 percent of the service module's weight 
+is in propellant for the service propulsion engine. 
+STRUCTURE 
+The service module is a relatively simple structure 
+consisting of a center section or tunnel surrounded 
+by six pie-shaped sectors. 
+The basic structural components are forward and 
+aft (upper and lower) bulkheads, six radial beams, 
+four sector honeycomb panels, four reaction control system honeycomb panels, an aft heat shield, 
+and a fairing. 
+The radial beams are made of solid aluminum 
+alloy which has been machined and chem-milled 
+(metal removed by chemical action) to thicknesses 
+varying between 2 inches and 0.018 inch, thus making a lightweight, efficient structure. 
+The forward and aft bulkheads cover the top and 
+bottom of the module. Radial beam trusses extending above the forward bulkhead support and 
+secure the command module. Three of these beams 
+have compression pads and the other three have 
+shear-compression pads and tension ties. Explosive 
+charges in the center sections of these tension ties 
+are used to separate the two modules. 
+An aft heat shield surrounds the service propulsion 
+W
+HELIUMTANKS 
+FUEL TANKS 
+FORWARO BULKHEAD INSTALL 
+SERVICE PROPULSION ENGINE 
+P-66 Main components o[SM 
+OXIOIZER TANKS 
+REACTION 
+CONTROL 
+SUBSYSTEM 
+OUAOS (4) 
+AFT BULKHEAD 
+engine to protect the service module from the 
+engine's heat during thrusting. The gap between the 
+command module and the forward bulkhead of the 
+service module is closed off with a fairing which is 
+'Y:!-inch thick and 22 inches high. The fairing is composed of 16 pieces; eight electrical power subsystem 
+radiators alternated with eight aluminum honeycomb panels. 
+The center section is circular and is 44 inches in 
+diameter. 
+Maintenance doors around the exterior of the 
+module provide access to equipment within each 
+sector. These doors are designed for installation and 
+checkout operations and are not used during space 
+operations .. 
+The sector and reaction control system panels are 
+1-inch thick and are made of aluminum honeycomb 
+core between two aluminum face sheets. The sector 
+panels are bolted to the radial beams. Radiators used 
+to dissipate heat from the environmental control 
+subsystem are bonded to the sector panels on opposite sides of the module. These radiators are each 
+about 30 square feet in area. 
+55 
+P-67 
+Technicians work on wiring and plumbing on "top deck" of service module 
+SECTORS 
+The service module's six sectors are of three sizes, 
+with two sectors each of the same size. The 360 
+degrees around the center section is divided among 
+two 50-degree (Sectors 1 and 4), two 60-degree 
+(Sectors 3 and 6), and two 70-degree (Sectors 2 
+and 5) compartments. 
+SECTOR 1 
+It is not currently planned to install any equipment 
+in this sector. The space is thus available if any 
+additional equipment needs to be added to the 
+spacecraft for the lunar mission or if equipment is 
+added for scientific experiments. Ballast may be 
+stowed in the sector to maintain the service 
+module's center of gravity if no equipment is added. 
+56 
+SECTOR 2 
+One of the two 70-degree sectors, contains part of 
+a space radiator and a reaction control subsystem 
+engine quad on its exterior panel, and the oxidizer 
+sump tank, its plumbing, and the reaction control 
+engine tanks and plumbing within the sector. 
+The oxidizer sump tank is the larger of the two 
+tanks that hold the oxidizer (nitrogen tetroxide) 
+for the service propulsion engine. A cylindrical tank 
+made of titanium, it is 153.8 inches high (about 
+12 feet 9-% inches) and has a diameter of 51 
+inches (4 feet 3 inches). It holds 13,923 pounds of 
+oxidizer. It is the tank from which oxidizer is fed to 
+the engine. Feed lines connect the sump tank to the 
+service propulsion engine and to the oxidizer storage 
+tank. 
+SECTOR 3 
+Sector 3 is one of the 60-degree sectors, and contains the rest of the space radiator and a reaction 
+control engine quad on its exterior panel, and the 
+oxidizer storage tank and its plumbing within the 
+sector. 
+The oxidizer storage tank is similar to the sump 
+tank but not quite as large. It is 154.47 inches high 
+(about 12 feet 10-% inches) and has a diameter of 
+45 inches. It holds 1 1,284 pounds of oxidizer. 
+Oxidizer is fed from it to the oxidizer sump tank 
+in Sector 2. 
+SECTO R 4 
+Sector 4 is one of the 50-degree sectors and contains most of the electrical power subsystem equipment in the service module, including three fuel 
+cell powerplants, two cryogenic oxygen and two 
+cryogenic hydrogen tanks, and a power control 
+relay box. A helium servicing panel also is located 
+in this sector. 
+The three fuel cell powerplants are mounted on 
+a shelf in the upper third of the sector. Each powerplant is 44 inches high, 22 inches in diameter, and 
+weighs about 245 pounds. They supply most of the 
+electrical power for the spacecraft as well as some 
+of the drinking water. 
+The cryogenic (ultra low temperature) tanks supply 
+oxygen to the environmental control subsystem and 
+oxygen and hydrogen to the fuel cell powerplants. 
+The tanks are spheres, with the oxygen tanks 
+mounted side by side in the center of the sector and 
+the hydrogen tanks mounted below them one on 
+top of the other. 
+The oxygen tanks are made of lnconel (a nickelsteel alloy) and are a little over 26 inches in diameter. Each holds 326 pounds of oxygen in a semiliquid, semi-gas state. Operating temperature of the 
+tanks ranges from 300 degrees below zero to 80 
+above. Oxygen must be maintained at 297 degrees 
+below zero to remain liquid. 
+The hydrogen tanks are made of titanium and are 
+about 31-% inches in diameter. Each holds a little 
+over 29 pounds of hydrogen. (Hydrogen is much 
+lighter than oxygen, so that in vessels of the same 
+volume the weight of the oxygen would be far 
+greater.) The hydrogen also is in a semi-gas, semiSECTOR 3 (Gin 
+OXIDIZER STORAGE 
+SM TO CM 
+FAIRING 
+SECTOR 
+4 (50, 
+EUUIP 
+AFT BULKHEAD 
+P-68 SM general arrangement 
+liquid stage, and its operating temperature ranges 
+from 425 degrees below zero to 80 above. To remain liquid, hydrogen must be maintained at 423 
+degrees below zero. 
+The power control relay box operates in conjunction with the fuel cell powerplants to control 
+the generation and distribution of electrical power. 
+SECTOR 5 
+This is the other 70-degree sector; it contains 
+part of an environmental control radiator and a 
+reaction control engine quad on the exterior panel, 
+and the fuel sump tank within the sector. 
+The fuel sump tank occupies almost all of the 
+space with the sector. It is a cylindrical titanium 
+tank the same· size as the oxidizer sump tank: 
+153.8 inches high (12 feet 9-% inches) and 51 inches 
+in diameter. It holds 8,708 pounds of propellant 
+(a 50-50 mixture of hydrazine and unsymmetrical 
+dimethylhydrazine) for the service propulsion 
+engine. It is the tank from which the fuel is fed to 
+the engine; feed lines also connect it to the fuel 
+storage tank. 
+SECTO R 6 
+The other 60-degree sector contains the rest 
+of the space radiator and a reaction control engine 
+57 
+P-69 
+Technician finishes installation of cryogenic oxygen tank 
+quad on its exterior, and the fuel storage tank 
+within the sector. 
+The fuel storage tank is the same size as the oxidizer storage tank: 154.47 inches high (about 
+12 feet 1 0-% inches) and 45 inches in diameter. 
+It holds 7,058 pounds of fuel. Fuel is fed from it 
+to the fuel sump tank in Sector 5. 
+The sump tanks and the storage tanks for fuel and 
+oxidizer are the same size; the difference in weight 
+each contains is that the oxidizer is more than 50-
+percent heavier than the fuel. 
+CENTER SECTION 
+The center section or tunnel contains two helium 
+tanks and the service propulsion engine. 
+The helium tanks are spherical vessels about 40 
+inches in diameter located one on top of the other 
+in the upper half of the center section. Each contains 19.6 cubic feet of helium gas under a pressure 
+of 3600 psi. This gas is used to pressurize the oxi58 
+dizer and fuel tanks of the service propulsion subsystem. The pressure forces the propellant from one 
+tank to another and through the feed lines to the 
+engine. 
+The service propulsion engine is located in the 
+lower half of the center section, with its nozzle 
+extension skirt protruding more than 9 feet below 
+the aft bulkhead of the module. The length of the 
+engine including the skirt is 152.82 inches (about 
+12 feet 8 inches) and its weight is 650 pounds. This 
+engine is used as a retrorocket to brake the spacecraft and put it into orbit around the moon, to 
+supply the thrust for the return to earth from the 
+moon, and for course corrections on the trips to 
+and from the moon. 
+EXTERIOR 
+Located on the exterior of the service module 
+are space radiators for both the environmental 
+control and electrical power subsystems, reaction 
+control subsystem engines, three antennas, umbilical connections, and several lights. 
+The environmental control subsystem space radiators are the larger ones and are located on the 
+lower half of the service module on opposite sides. 
+One is part of the panel covers for Sectors 2 and 3 
+and the other is part of the panel covers for 
+Sectors 5 and 6. The radiators, each about 30 square 
+feet, consist of five parallel primary tubes and four 
+secondary tubes mounted horizontally and one 
+series tube mounted vertically. The water-glycol 
+coolant flows through these tubes to radiate to the 
+cold of space the heat it has absorbed from the 
+command module cabin and from operating electronic equipment. 
+The electrical power subsystem space radiators 
+are located on the fairing at the top of the service 
+module. Each of the eight radiator panels (which 
+are alternated with eight aluminum honeycomb 
+panels) contains three tubes which are used to 
+radiate to space excess heat produced by the fuel 
+cell powerplants. A separate radiation loop is used 
+for each powerplant; that is, one of the tubes on 
+each panel is connected to a specific powerplant. 
+The reaction control subsystem engines are located 
+in four clusters of 90 degrees apart around the 
+upper portion of service module. The clusters or 
+quads are arranged in such a manner that the engines 
+are on the outside of the panels and all the other 
+P-70 
+Technician prepares service propulsion engine for installation in service module 
+components are on the inside. The engines are 
+mounted with two pointed up and down and two 
+pointed to the sides in opposite directions. Components of the quad panels on the inside of the 
+sectors include two oxidizer and two fuel tanks, a 
+helium tank, and associated valves, regulators, and 
+plumbing. Each quad package is eight feet long and 
+nearly three feet wide. 
+The four antennas on the outside of the service 
+module are the S-band high-gain antenna, mounted 
+on the aft bulkhead; two VHF omni-directional 
+antennas, mounted on opposite sides of the module 
+near the top; and the rendezvous radar transponder 
+antenna, mounted in the SM fairing. The S-band 
+high-gain antenna, used for deep space communications, is composed of four 31-inch diameter 
+reflectors surrounding an 11-inch square reflector. 
+At launch it is folded down parallel to the service 
+propulsion engine nozzle so that it fits within the 
+spacecraft- LM adapter. After the CSM separates 
+from the adapter the antenna is deployed at a 
+right angle to the service module. The omnidirectional antennas, called scimitars because of 
+their shape, are made of stainless steel and are 
+approximately 13-% inches long and only a hundredth of an inch thick. 
+59 
+P-71 CM-SM umbilical assembly 
+The umbilicals consist of the main plumbing and 
+wiring connections between the command module 
+and service module, which are enclosed in a fairing 
+(aluminum covering), and a "flyaway" umbilical 
+which is connected to the launch tower. The latter 
+s�pplies oxygen and nitrogen for cabin pressurization
+.' water-glycol, electrical power from ground 
+equ1pment, and purge gas. 
+Seven lights are mounted in the aluminum panels 
+of the fairing. Four (one red, one green, and two 
+amber) are used to aid the astronauts in docking, 
+one is a floodlight which can be turned on to give 
+astronauts visibility during extravehicular activities 
+one is a flashing beacon used to aid in rendezvous' 
+and one is a spotlight used in rendezvous from 500 
+feet to docking with the lunar module. 
+SM-CM SEPARATION 
+Separation of the SM from the CM occurs shortly 
+before entry. The sequence of events during separation is controlled automatically by two redundant 
+service module jettison controllers, located on the 
+forward bulkhead of the SM. 
+A number of events must occur in rapid sequence 
+or at the same time for proper separation. These 
+include physical separation of all the connections 
+between the modules, transfer of electrical control, and firing of the service module's reaction 
+control engines to increase the distance between 
+the modules. 
+Before separation, the crewmen in the CM transfer 
+60 
+electrical control to the CM reaction control subsystem (the SM reaction control subsystem is used 
+for attitude maneuvers throughout the mission up 
+to entry) so that they can pressurize it and check it 
+out for the entry maneuvers. 
+Electrical control is then transferred back to the 
+SM subsystem. Separation is started manually, by 
+activation of either of two redundant switches on 
+the main display console. These switches send signals to the SM jettison controllers. The controllers 
+first send a signal to fire ordnance devices which 
+activat� the CM-SM electrical circuit interrupters; 
+these mterrupters deadface (cut off all power to) 
+the electrical wires in the CM-SM umbilical. 
+A tenth of a second after the wires are deadfaced 
+the controllers send signals which fire ordnanc� 
+devices to sever the physical connections between 
+the modules. These connections are three tension 
+tie� and the umbilical. The tension ties are straps 
+wh1ch hold the CM on three of the compression 
+pads on the SM. Linear-shaped charges in each 
+tension-tie assembly sever the tension ties to separate 
+the modules. At the same time, explosive charges 
+drive guillotines through the wiring and tubing in the 
+umbilical. 
+Simultaneously with the firing of the ordnance 
+devices, the controllers send signals which fire the 
+SM reaction control engines. Roll engines are fired 
+for 5 seconds to alter the SM's course from that of 
+the CM, and the translation (thrust) engines are 
+fired continuously until the propellant is depleted 
+or fuel cell power is expended. These maneuvers 
+carry the SM well away from the entry path of 
+the CM. 
+The service module will enter the earth's atmosphere after separation and burn up. 
+f) SM REACTION CONTROL 
+ENGINES (-X) FIRE FOR 
+5.5 SECONDSCD AFTER 2 SECONDS 
+I'I.JG ROLL ENGINES FIRE 
+HrrR :-:----
+.._ .._ .�:!...E !!.!.o R y 
+LOCAL H -- DRiz(m'fAL . 
+45' ,f.: � ' ��-·-
+SEPARATION 
+ATIITUDE 8 
+SEPARATION 
+ATIITUDE A 
+P-72 Attitude of SM and CM during separation 
