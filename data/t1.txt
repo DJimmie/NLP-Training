@@ -1,8 +1,9 @@
-What is a test plan?
-When do I create a test plan?
-How do I do a test plan? 
+ASSY5.
+CELL21.
+PIT2.
+DC2.
+SG.
+CELL20.
+PIT5.
+PIT4.
 
-When do I do a test plan? 
-Where do I access the test plan? 
-How do I do a test plan? 
-stank do I do a test plan? 
