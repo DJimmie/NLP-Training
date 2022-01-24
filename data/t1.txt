@@ -1,9 +1,11 @@
-ASSY5.
-CELL21.
-PIT2.
-DC2.
-SG.
-CELL20.
-PIT5.
-PIT4.
-
+Experience with the building and testing of fluid and/or electrical systems.
+Experience with the build and test of pneumatic, hydraulic, and structural assemblies.
+Experience with test equipment (pumps, valves, heaters, instrumentation, data acquisition, and automation).
+Experience with scientific computer science languages (Python, Matlab, or similar).
+Experience with fluid and electrical system simulation and automation testing.
+Experience data reduction and post-processing tools.
+Mechanical component and/or tooling design and analysis (3D computer-aided design).
+Knowledge of metallic manufacturing techniques, processes, and equipment related to machining, welding, drilling, and automation.
+Experience with process development from R&D to high-volume manufacturing.
+Experience writing work instructions and procedures for critical aerospace parts.
+Experience in a production environment within the aerospace industry.
